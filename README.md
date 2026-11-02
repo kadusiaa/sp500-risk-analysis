@@ -35,8 +35,4 @@ Notebook korzysta ze ścieżki względnej `data/SnP_daily_update.csv`. Po dostar
 
 ## Autorstwo i wykorzystanie AI
 
-Autorem kodu analitycznego oraz koncepcji i przebiegu całej analizy jest autor projektu. AI wykorzystano do wygenerowania kodu wykresów Matplotlib oraz złożenia podsumowania projektu na podstawie autorskiej analizy.
-
-## Weryfikacja
-
-Wykonano wszystkie 43 komórki kodu po kolei na analizowanej kopii CSV, zapisano tabele i wszystkie 11 istniejących wykresów. Potwierdzono brak duplikatów par data–ticker. Braki cen pozostawiono bez uzupełniania przy liczeniu zwrotów. Oryginalny notebook i źródłowy CSV pozostawiono bez zmian.
+Jestem wyłącznym autorem kodu analitycznego oraz koncepcji i przebiegu całej analizy. AI wykorzystałem jedynie do wygenerowania kodu wykresów Matplotlib oraz złożenia podsumowania projektu na podstawie autorskiej analizy.
